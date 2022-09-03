@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=DaseulBae&fontSize=90&color=gradien)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=DaseulBae&fontSize=90&color=gradient)
 
 # Dillinger
 ## _The Last Markdown Editor, Ever_
