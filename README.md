@@ -13,7 +13,8 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
 </p>
 
-If you want to know more about me <b><a href="https://chartreuse-canopy-920.notion.site/6dd509546ee34bee92c53bae5e8db583">Click!😊</a></b>
+
+<h2 align="center">If you want to know more about me <b><a href="https://chartreuse-canopy-920.notion.site/6dd509546ee34bee92c53bae5e8db583">Click!😊</a></b></h2>
 
 # Dillinger
 ## _The Last Markdown Editor, Ever_
