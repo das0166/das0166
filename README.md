@@ -13,6 +13,10 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=das0166&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=das0166&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=das0166&theme=ayu-light)](https://git.io/streak-stats)
+
 
 <h4 align="center">If you want to know more about me <b><a href="https://chartreuse-canopy-920.notion.site/6dd509546ee34bee92c53bae5e8db583">Click!😊</a></b></h4>
 
