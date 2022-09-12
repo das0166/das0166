@@ -23,5 +23,5 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=das0166&align=center&theme=ayu-light)](https://git.io/streak-stats)
 
-<h3>If you want to know more about me <b><a href="https://chartreuse-canopy-920.notion.site/6dd509546ee34bee92c53bae5e8db583">Click!😊</a></b></h3>
+<h3>If you want to know more about me <b><a target="_blank" href="https://chartreuse-canopy-920.notion.site/6dd509546ee34bee92c53bae5e8db583">Click!😊</a></b></h3>
 </div>
