@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Welcome!&desc=daseul's%20GitHub%20profile&fontAlignY=43&descAlign=69&descAlignY=57&fontSize=90&color=gradient&idx=11)
 
-안녕하세요!🙌🏻<br/>프론트엔드가 되기 위해 공부하고 있는 배다슬입니다!<br/>현재 대학교에 재학 중이며, 부족한 부분을 채우기 위해 열심히 노력 중입니다!😁
+안녕하세요!🙌🏻<br/>웹 퍼블리셔가 되기 위해 공부하고 있는 배다슬입니다!<br/>현재 대학교에 재학 중이며, 부족한 부분을 채우기 위해 열심히 노력 중입니다!😁
 
 
 <h3>⭐Tech Stack(I wrote the skills that I can do well in order)⭐</h3>
